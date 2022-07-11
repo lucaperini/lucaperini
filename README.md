@@ -22,6 +22,8 @@
   :telescope: Jr. Full Stack Web Developer from Italy
   
   :seedling: Keep on learning!
+  
+  :mailbox Contact me at luca.perini@gmail.com
 
 </div>
 
