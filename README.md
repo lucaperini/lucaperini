@@ -23,7 +23,7 @@
   
   :seedling: Keep on learning!
   
-  :mailbox Contact me at luca.perini@gmail.com
+  📫 How to reach me: luca.perini@gmail.com
 
 </div>
 
